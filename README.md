@@ -15,12 +15,12 @@ This is my github that showcases my learning, recent projects, technical skill, 
 
 
 
-## Techinical Skill Stack
+#### Techinical Skill Stack
 
-#### Front End
+##### Front End
 `HTML` `CSS` `Javascrip` `Jquery` `react` `BootStrap`
-#### Tools & Deployment
+##### Tools & Deployment
 `Github`
-#### Office
+##### Office
 `Adobe illustrator` `Adobe photoshop` `Microsoft Office` `Word` `PowerPoint` and a little bit of `Excel`.
 
