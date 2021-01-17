@@ -30,5 +30,5 @@ This is my github that showcases my learning, recent projects, technical skill, 
 #### Tools & Deployment
 `Github`
 #### Office
-`Adobe illustrator` `Adobe photoshop` `Microsoft Office` `Word` `PowerPoint`
+`Adobe illustrator` `Adobe photoshop` `Microsoft Office` `Word` `PowerPoint` and a little bit of `Excel`.
 
