@@ -1,4 +1,5 @@
 ### Hi there 👋
+I keep learning to be a developer who can do design. 
 
 <!--
 **jinsolbae/jinsolbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-### edit
+### I'm learning HTML, CSS, Javascript and react now
+This is my github that showcases my learning, recent projects, technical skill, contact information and a little bit about me.
+
+
+
+
+## Techinical Skill Stack
+
+#### Front End
+`HTML` `CSS` `Javascrip` `Jquery` `react` `BootStrap`
+#### Tools & Deployment
+`Github`
+#### Office
+`Adobe illustrator` `Adobe photoshop` `Microsoft Office` `Word` `PowerPoint`
+
