@@ -1,6 +1,6 @@
 ### Hi there 👋
 I keep learning to be a developer who can do design. 
-I'm learning HTML, CSS, Javascript and react now
+I'm learning HTML, CSS, Javascript and react now.
 This is my github that showcases my learning, recent projects, technical skill, contact information and a little bit about me.
 
 
