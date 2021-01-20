@@ -19,7 +19,7 @@ You can see my portfolio [here](http://jinsol.dothome.co.kr/portfolio/)
 #### Techinical Skill Stack
 
 ##### Front End
-`HTML` `CSS` `Javascrip` `Jquery` `react` `BootStrap`
+`HTML` `CSS` `Javascript` `Jquery` `react` `BootStrap`
 ##### Tools & Deployment
 `Github`
 ##### Office
