@@ -23,5 +23,5 @@ You can see my portfolio [here](http://jinsol.dothome.co.kr/portfolio/)
 ##### Tools & Deployment
 `Github`
 ##### Office
-`Adobe illustrator` `Adobe photoshop` `Microsoft Office` `Word` `PowerPoint` and a little bit of `Excel`.
+'Adobe XD' `Adobe illustrator` `Adobe photoshop` `Microsoft Office` `Word` `PowerPoint` and a little bit of `Excel`.
 
